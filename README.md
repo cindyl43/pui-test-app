@@ -6,3 +6,5 @@ The link to the work of lab 5 could be found here: https://github.com/cindyl43/l
 The link to the work of lab 7 could be found here: https://github.com/cindyl43/week7_lab.git
 
 The link to the work of lab 8 could be found here: https://github.com/cindyl43/week8_lab.git
+
+The link to the work of lab 11 could be found here: https://github.com/cindyl43/week11_lab.git
